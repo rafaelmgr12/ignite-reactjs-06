@@ -1,6 +1,6 @@
-import { Box, Flex, Heading,Text,Image } from "@chakra-ui/react";
+import { Box, Flex, Heading, Image, Text } from '@chakra-ui/react'
 
-export function Banner(){
+export default function Banner() {
     return (
         <Flex
             width="100%"
